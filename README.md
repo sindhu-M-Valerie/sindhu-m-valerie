@@ -14,16 +14,6 @@ Currently exploring:
 - Trust & Safety automation
 - Quality frameworks & operational intelligence
 
+  
+<img width="400" height="167" alt="8aae97a1-062e-4ad7-87cd-a5f86a7aa028_text" src="https://github.com/user-attachments/assets/e986f936-27da-4560-8c7b-e4a22cdb11dc" />
 
-
-      ◉       ◌
-   signal   signal
-       \     /
-        \   /
-       [ AI ]
-      /  |  \
-   risk data policy
-       \  |  /
-       [ INSIGHT ]
-           ↓
-       DECISION
