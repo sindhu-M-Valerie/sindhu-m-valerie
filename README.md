@@ -1,6 +1,6 @@
 # Hi, I'm Sindhu
 
-### Trust & Safety | AI Evaluation | Quality Engineering | AI-Assisted Operations
+### Trust & Safety | AI Evaluation | Quality Engineering | AI-Assisted Operations | [portfolio](https://sindhu-m-valerie.github.io/portfolio/)
 
 I build practical AI-assisted tools for messy, high-stakes problems.
 
