@@ -58,3 +58,5 @@ ecosystem.
 
 <img width="400" height="167" alt="Profile graphic" src="https://github.com/user-attachments/assets/e986f936-27da-4560-8c7b-e4a22cdb11dc" />
 
+<img width="1672" height="941" alt="ChatGPT Image Sep 25, 2026, 05_26_14 PM" src="https://github.com/user-attachments/assets/fd62582a-0d84-44cf-ba85-fcb8116dcd64" />
+
