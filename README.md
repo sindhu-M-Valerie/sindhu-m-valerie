@@ -26,7 +26,7 @@ communication style may appear to others.
 - **Focus:** Communication insight, tone analysis, sentiment, and behavioral signals
 - **What I built:** A JavaScript-based experience that analyzes GitHub interactions and presents a more mindful view of online communication
 - **Outcome:** Encourages constructive engagement by helping developers reflect on their digital persona
-- **Links:** [Repository](https://github.com/sindhu-M-Valerie/reflectocat)
+- **Links:** [Repository](https://github.com/sindhu-M-Valerie/reflectocat) | [Live deployment](https://sindhu-m-valerie.github.io/reflectocat/)
 
 ### [Argus](https://github.com/sindhu-M-Valerie/Argus)
 
