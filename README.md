@@ -16,35 +16,28 @@ Currently exploring:
 
 ## Projects
 
-Here are some of the projects I'm building and exploring. Each project can be
-expanded with its goal, implementation, results, and links.
+Here are two projects I'm building and exploring.
 
-### [Project name]
+### [ReflectoCat](https://github.com/sindhu-M-Valerie/reflectocat)
 
-Short description of the problem this project solves and who it helps.
+A playful reflection tool that helps developers understand how their GitHub
+communication style may appear to others.
 
-- **Focus:** AI evaluation, Trust & Safety, automation, or quality engineering
-- **What I built:** Add the workflow, model, tool, or system you created
-- **Outcome:** Add measurable results, lessons learned, or current status
-- **Links:** [Repository](#) | [Demo](#) | [Write-up](#)
+- **Focus:** Communication insight, tone analysis, sentiment, and behavioral signals
+- **What I built:** A JavaScript-based experience that analyzes GitHub interactions and presents a more mindful view of online communication
+- **Outcome:** Encourages constructive engagement by helping developers reflect on their digital persona
+- **Links:** [Repository](https://github.com/sindhu-M-Valerie/reflectocat)
 
-### [Project name]
+### [Argus](https://github.com/sindhu-M-Valerie/Argus)
 
-Short description of the project and the real-world use case behind it.
+A real-time civic-risk intelligence platform focused on emerging misinformation,
+coordinated hate activity, and online exploitation risks across India's digital
+ecosystem.
 
-- **Focus:** Add the primary technical or operational focus
-- **What I built:** Add the main contribution and technologies used
-- **Outcome:** Add impact, evaluation results, or what you learned
-- **Links:** [Repository](#) | [Demo](#) | [Write-up](#)
-
-### [Project name]
-
-Short description of the project, experiment, or operational improvement.
-
-- **Focus:** Add the primary area of work
-- **What I built:** Add the key capabilities or deliverables
-- **Outcome:** Add the result, current status, or next step
-- **Links:** [Repository](#) | [Demo](#) | [Write-up](#)
+- **Focus:** Trust & Safety, misinformation monitoring, coordinated-harm detection, and civic resilience
+- **What I built:** A JavaScript/Node dashboard that aggregates public data, verified reports, and trend signals, with health, signals, and live-sources APIs
+- **Outcome:** Provides situational awareness for researchers, civic-integrity analysts, safety teams, journalists, and policy responders while prioritizing responsible analysis
+- **Links:** [Repository](https://github.com/sindhu-M-Valerie/Argus) | [Live deployment](https://argus-web.onrender.com)
 
 ## What I Bring
 
